@@ -9,7 +9,7 @@ st.title("Interactive ECG Signals at Different Electrode Distances")
 files = {
     "13 cm": "ECG_13.csv",
     "5 cm": "ECG_5.csv",
-    "3 cm": "ECG_3.csv",
+    "3 cm": "ECG_03.csv",
     "8 cm": "ECG_8.csv"
 }
 
